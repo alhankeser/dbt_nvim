@@ -1,9 +1,3 @@
-# Work efficiently with dbt projects in neovim
+This is a dbt package that is a temporary solution to execute dbt-compiled sql.
 
-## Requirements
-
-## Installation
-
-## Usage Examples
-
-
+Learn more: [alhankeser/dbt-nvim](https://github.com/alhankeser/dbt-nvim)
